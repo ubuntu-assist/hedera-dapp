@@ -190,12 +190,12 @@ function App() {
         link={mintLinkSt}
       />
 
-      {/* <MyGroup
+      <MyGroup
         fcn={contractDeploy}
         buttonLabel={'Deploy Contract'}
         text={contractTextSt}
         link={contractLinkSt}
-      /> */}
+      />
 
       <MyGroup
         fcn={topicCreate}
